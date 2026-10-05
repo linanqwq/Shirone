@@ -71,4 +71,5 @@ artifacts/lighthouse/*
 .lighthouseci/
 
 # generated AI skills plugin packages
-artifacts/shirone-ai-*
+artifacts/shirone-ai-*.obsdian/
+.obsidian/
